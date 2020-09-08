@@ -10,3 +10,5 @@ const runFunc = () => {
 runFunc()
 
 console.log("Test code")
+
+console.log("Hello")
