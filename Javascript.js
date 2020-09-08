@@ -12,3 +12,4 @@ runFunc()
 console.log("Test code")
 
 console.log("Hello")
+console.log("Bye")
