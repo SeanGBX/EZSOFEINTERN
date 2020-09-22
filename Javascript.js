@@ -6,9 +6,8 @@ const runFunc = () => {
     return this;
 }
 
-
 runFunc()
 
-console.log("Test code")
+console.log("Test code");
 
-console.log("Hello")
+console.log("Hello");

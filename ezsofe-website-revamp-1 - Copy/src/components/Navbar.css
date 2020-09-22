@@ -1,0 +1,35 @@
+.navbar-logo {
+    top: 51px;
+    left: 126px;
+    width: 165px;
+    height: 48px;
+}
+
+.navbar-text {
+    top: 51px;
+    left: 186px;
+    width: 105px;
+    height: 48px;
+    color: var(--unnamed-color-17153a);
+    text-align: left;
+    letter-spacing: -2px;
+    color: #17153A;
+    opacity: 1;
+}
+.logo-link{
+    text-decoration: none !important;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Futura', sans-serif;
+}
+.nav-link.px-5.text-dark{
+    font-family: 'Raleway', sans-serif;
+}
+.logo {
+    top: 58px;
+    left: 126px;
+    width: 52px;
+    height: 38px;
+}
+

@@ -1,0 +1,8 @@
+.home-header{
+    height: 1079px;
+    background-color: gray;
+    background-image: url('../images/homebg.jpg');
+    background-size: cover;
+    background-position: bottom;
+
+}
